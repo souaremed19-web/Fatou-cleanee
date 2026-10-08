@@ -1,0 +1,6 @@
+{
+  "name": "Fatou's Cleaner - Nettoyage & Conciergerie",
+  "description": "Plateforme officielle de Fatou's Clean (Simbaya Gare, Conakry, Guinée). Tél : +224 623 07 82 50. Calculateur de tarif en direct, réservation en ligne et galerie avant/après.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
